@@ -25,7 +25,7 @@ $ expo start
 ```
 ## Demo
 
-<p float="left>
+<p float="left">
 <img src = "./assets/Simulator Screen Shot - iPhone 13 Pro Max - 2022-06-08 at 22.14.33.png" width="270" height="480"/>
 <img src = "./assets/Simulator Screen Shot - iPhone 13 Pro Max - 2022-06-08 at 22.14.53.png" width="270" height="480"/>
 </p>
