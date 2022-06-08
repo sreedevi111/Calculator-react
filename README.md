@@ -1,9 +1,9 @@
 # Calculator 
 
 ## Table of contents
-* [General info] (#general-info)
-* [Technologies] (#technologies)
-* [Setup] (#setup)
+* [General info] 
+* [Technologies] 
+* [Setup] 
 
 ## General info
 This project is simple calculator with minimalistic beautiful UI and dark-mode
