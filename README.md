@@ -25,5 +25,5 @@ $ expo start
 ```
 ## Demo
 
-<img src = "./assets/Simulator Screen Shot - iPhone 13 Pro Max - 2022-06-08 at 22.14.33.png"/>
+<img src = "./assets/Simulator Screen Shot - iPhone 13 Pro Max - 2022-06-08 at 22.14.33.png" width="128"/>
 
