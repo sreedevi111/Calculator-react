@@ -1,9 +1,10 @@
 # Calculator 
 
 ## Table of contents
-* [General info] 
-* [Technologies] 
-* [Setup] 
+* General info
+* Technologies 
+* Setup
+* Demo
 
 ## General info
 This project is simple calculator with minimalistic beautiful UI and dark-mode
@@ -22,3 +23,7 @@ $ npm start
     OR
 $ expo start
 ```
+## Demo
+
+<img src = "Calculator-react/assets/Simulator Screen Shot - iPhone 13 Pro Max - 2022-06-08 at 22.14.33.png"/>
+
